@@ -25,5 +25,5 @@ Rule #2: Commit **often (with purpose)** with **meaningful comments**
 
 ---
 
-####Recommendations
+#### Recommendations
 - Use [Sourcetree](https://www.sourcetreeapp.com/)
